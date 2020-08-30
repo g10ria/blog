@@ -28,8 +28,7 @@ twitter_username: melaneon
 github_username:  g10ria
 
 # Build settings
-remote_theme: poole/hyde
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
