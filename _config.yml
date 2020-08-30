@@ -22,14 +22,14 @@ title: Temp
 email: zhuyygloria@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a temporary description :)
-baseurl: "/blog"
+baseurl: "/"
 url: "https://gloriazh.com"
 twitter_username: melaneon
 github_username:  g10ria
 
 # Build settings
-remote-theme: poole/hyde
-# theme: minima
+# remote-theme: poole/hyde
+theme: hyde
 plugins:
   - jekyll-feed
 
